@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "17627700178",
+    "firebase_url": "https://app1-1d896.firebaseio.com",
+    "project_id": "app1-1d896",
+    "storage_bucket": "app1-1d896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17627700178:android:be3e65612fae5d42",
+        "android_client_info": {
+          "package_name": "com.example.acer.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17627700178-44a35o6gl75bpjt55r50c3amvfh51ptc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuP8Cxw-XiM1zeUfvQobMo6uMU8CPuZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
